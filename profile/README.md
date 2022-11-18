@@ -28,6 +28,7 @@
 
 
 El FabLab Mérida es un entorno colaborativo de alumnos y profesores en el Centro Universitario de Mérida.
+
 Nos especializamos en diseñar y prototipar ideas y proyectos ya sea para uso personal o como proyecto de investigación así como ofrecer diversa multitud de formaciones o cursos.
   
   
