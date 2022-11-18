@@ -1,6 +1,6 @@
 ## ¡Hey! 👋Bienvenido a FABlab Mérida  
   
-<!--
+
 <a href="https://github.com/FabLab-Merida" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -19,7 +19,6 @@
 <a href="https://www.youtube.com/user/https://www.youtube.com/channel/UC1QTImw0g5BCRnJ8rehhg2A" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
-  -->
 
 
 
