@@ -16,7 +16,7 @@
 <a href="https://www.facebook.com/profile.php?id=100065400252867" target="_blank">
 <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https:/www.youtube.com/channel/UC1QTImw0g5BCRnJ8rehhg2A" target="_blank">
+<a href="https://www.youtube.com/channel/UC1QTImw0g5BCRnJ8rehhg2A" target="_blank">
 <img src="https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt=youtube style="margin-bottom: 5px;" />
 </a>  
 
